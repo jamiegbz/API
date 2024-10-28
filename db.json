@@ -1,0 +1,74 @@
+{
+  "LegoTheme": [
+    {
+      "id": 1,
+      "theme": "Disney"
+    },
+    {
+      "id": 2,
+      "theme": "Flowers"
+    },
+    {
+      "id": 3,
+      "theme": "Cars"
+    }
+  ],
+  "Set": [
+    {
+      "id": 1,
+      "title": "Disney UP house",
+      "themeId": 1
+    },
+    {
+      "id": 2,
+      "title": "Bouquet of Roses",
+      "themeId": 2
+    },
+    {
+      "id": 3,
+      "title": "Nissan Skyline",
+      "themeId": 3
+    },
+    {
+      "id": 4,
+      "title": "Stitch",
+      "themeId": 1
+    },
+    {
+      "id": "07a9",
+      "title": "Test",
+      "themeId": 1
+    },
+    {
+      "id": "5265",
+      "title": "Test",
+      "themeId": 1
+    }
+  ],
+  "legoPieces": [
+    {
+      "id": 1,
+      "pieces": 598,
+      "time": "1 hour",
+      "themeId": 1
+    },
+    {
+      "id": 2,
+      "pieces": 822,
+      "time": "1 hour and 30 mins",
+      "themeId": 2
+    },
+    {
+      "id": 3,
+      "pieces": 319,
+      "time": "1 hour",
+      "themeId": 3
+    },
+    {
+      "id": 4,
+      "pieces": 730,
+      "time": "1 hour",
+      "themeId": 1
+    }
+  ]
+}
