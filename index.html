@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API</title>
+    <!--linked bootstrsp-->
+    <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css" >
+</head>
+<body>
+    <div class="main">
+        <div>
+            <h2>LEGO</h2>
+            <button type="button" class="btn btn-danger" onclick="onFetchLegoClick()">Fetch Lego</button>
+            <button type="button" class="btn btn-warning" onclick="onCreateLegoClick()">Create Test Lego</button>
+            <button type="button" class="btn btn-success" onclick="onUpdateLegoClick()">Update Test Lego</button>
+            <button type="button" class="btn btn-primary" onclick="onDeleteLegoClick()">Delete Test Lego</button>
+            <div id="lego-container">
+
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <!--linked api key-->
+    <script src="./apiKey.js"></script>
+    <!--linked javascript-->
+    <script src="./test.js" ></script>
+</html>
